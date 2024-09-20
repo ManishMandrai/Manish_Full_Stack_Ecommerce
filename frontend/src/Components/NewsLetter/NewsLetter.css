@@ -9,7 +9,7 @@
     margin: auto;
     padding: 50px 8%;
     margin-bottom: 100px;
-    background: linear-gradient(180deg, #fde1ff 0%, #e1ffea22 60%);
+    background: rgb(255,255,255);background: linear-gradient(0deg, rgba(255,255,255,1) 35%, rgba(250,162,135,1) 100%);
     gap: 20px;
 }
 
