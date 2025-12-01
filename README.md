@@ -46,8 +46,7 @@ Fast, clean, responsive — designed with Tailwind CSS and powered by a secure b
 ---
 
 ## 📸 Screenshots
-_Add some screenshots here later for better presentation._
-<p align="center"> <img src="https://github.com/user-attachments/assets/79838f1f-8cab-411a-9e7e-169f7a9e981a" width="32%" /> <img src="https://github.com/user-attachments/assets/d8523b07-d7a1-481d-b9ab-a063ede117d4" width="32%" /> <img src="https://github.com/user-attachments/assets/4c9b4e51-6738-4321-bcf7-071d41ab7afe" width="32%" /> </p>
+<p align="center"> <img src="https://github.com/user-attachments/assets/79838f1f-8cab-411a-9e7e-169f7a9e981a" width="32%" style="border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.15);" /> <img src="https://github.com/user-attachments/assets/d8523b07-d7a1-481d-b9ab-a063ede117d4" width="32%" style="border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.15);" /> <img src="https://github.com/user-attachments/assets/4c9b4e51-6738-4321-bcf7-071d41ab7afe" width="32%" style="border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.15);" /> </p>
 
 ---
 
