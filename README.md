@@ -1,45 +1,58 @@
-# 🛍️ Matural Shop — Modern E-Commerce Store
+# 🛍️ matural.shop – Modern E-Commerce Store
 
-A fast and modern e-commerce experience built with the MERN stack.  
-Designed for real customers with smooth browsing, secure payments, mobile-first UI, and seamless order management.
-
----
-
-## 🔗 Live Project
-👉 **https://matural.shop**
+A production-ready, mobile-first e-commerce experience built with the MERN stack and optimized for real users.  
+Fast, clean, responsive — designed with Tailwind CSS and powered by a secure backend.
 
 ---
 
-## 🌟 Features
-- Beautiful and responsive UI  
-- Product browsing with categories & filters  
-- Secure cart & checkout  
-- Razorpay payment integration  
-- User accounts & order history  
-- Order cancel & return flow  
-- Address management (India-ready format)  
-- Email notifications  
-- Cloudinary image optimization  
-- Smooth UX with React + Tailwind
+## 🔗 Live Website
+👉 https://matural.shop
+
+---
+
+## 🌟 Key Features
+- Seamless cart & checkout experience  
+- Razorpay-based payment processing  
+- Order cancel & return workflow  
+- Address management with India-specific fields  
+- Product search & category filters  
+- Email-based user authentication (JWT-secured)  
+- Cloudinary-powered image optimization  
+- Fully responsive UI across devices  
+- Admin panel with product & order management  
+- Secure REST APIs with proper validation
 
 ---
 
 ## 🛠️ Tech Stack
-### Frontend
-- **React**  
-- **Tailwind CSS**  
-- **Context API**
-
-### Backend
-- **Node.js**  
-- **Express**  
-- **MongoDB (Mongoose)**
-
-### Integrations
-- **Razorpay** — online payments  
-- **Cloudinary** — optimized product images  
-- **Nodemailer + JWT** — email verification & auth  
+**Frontend:** React, Tailwind CSS  
+**Backend:** Node.js, Express.js  
+**Database:** MongoDB  
+**Authentication:** JWT + Email verification  
+**Payments:** Razorpay  
+**Media:** Cloudinary  
+**Deployment:** Production optimized (live)
 
 ---
 
-## 📁 Structure (High-level)
+## 🎨 UI & Experience
+- Tailwind-first design system  
+- Fast-loading, optimized assets  
+- Clean product pages  
+- Smooth animations & transitions  
+- Mobile-first layouts
+
+---
+
+## 📸 Screenshots
+_Add some screenshots here later for better presentation._
+
+---
+
+## ⚡ About
+This project is actively maintained and continuously improved to deliver a modern shopping experience.  
+More updates and features coming soon.
+
+---
+
+© 2025 matural.shop
